@@ -1,10 +1,12 @@
-##Functional Kubes
+## Functional Kubes
 http://codekata.com/kata/kata06-anagrams/
 
-##Chosen Language 
+# Chosen Language 
 Elixer
 
-##To run
+# To run
 Iex `iex anagrams.ex`
+
 Recompile module `r(Anagrams)`
+
 Run kube `Anagram.test()`
